@@ -15,7 +15,7 @@
   "nickNameBot": "obito-bot",
   "prefix": "/",
   "adminOnly": {
-    "enable": false,
+    "enable": true,
     "ignoreCommand": []
   },
   "adminBot": [
