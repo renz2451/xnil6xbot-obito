@@ -6,7 +6,7 @@ module.exports = {
  version: "1.0",
  author: "xnil6x",
  role: 4,
- usePrefix: false,
+ usePrefix: true,
  description: "Test any public API via GET or POST",
  guide: "/apitest get <url> | /apitest post <url> <body>",
  category: "utility",
